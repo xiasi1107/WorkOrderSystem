@@ -1,0 +1,78 @@
+2025-07-11 17:02:11,660 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:02:43,542 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:03:09,271 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:03:09,404 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:03:09,409 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:03:09,410 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:13:58,086 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:13:59,476 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:14:06,027 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:15:11,902 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:15:13,215 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:15:15,947 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:15:16,989 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:15:17,381 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:15:17,563 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:15:17,736 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:15:17,919 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:20:02,226 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:20:03,268 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:26:01,603 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:27:53,029 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:30:51,993 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:30:53,198 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:30:54,973 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:30:56,531 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:31:46,033 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:31:47,211 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:31:56,123 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:31:58,048 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:32:03,285 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:35:08,997 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:35:15,577 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:35:20,760 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:35:22,212 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:37:00,543 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:37:02,407 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:37:03,986 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:39:50,875 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:42:21,035 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:43:52,526 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:58:33,677 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:58:34,701 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:58:36,488 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:58:36,963 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:58:37,195 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:58:37,403 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:58:37,633 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 17:58:37,878 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 18:03:38,839 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 18:06:07,858 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 18:08:52,111 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 18:09:43,461 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 18:11:21,248 - ERROR - 数据库操作失败：1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-07-11 18:13:00,029 - INFO - 查询成功，返回1条数据
+2025-07-11 18:13:58,213 - INFO - 查询成功，返回1条数据
+2025-07-11 18:14:15,314 - INFO - 查询成功，返回1条数据
+2025-07-11 18:17:16,685 - INFO - 查询成功，返回1条数据
+2025-07-11 18:21:22,123 - INFO - 查询成功，返回1条数据
+2025-07-11 18:23:03,097 - INFO - 查询成功，返回1条数据
+2025-07-11 18:23:12,553 - INFO - 查询成功，返回1条数据
+2025-07-11 18:23:19,205 - INFO - 查询成功，返回1条数据
+2025-07-11 18:23:38,322 - INFO - 查询成功，返回1条数据
+2025-07-11 18:23:41,574 - INFO - 查询成功，返回1条数据
+2025-07-11 18:23:45,018 - INFO - 查询成功，返回1条数据
+2025-07-11 18:25:44,771 - INFO - 查询成功，返回1条数据
+2025-07-11 18:41:10,318 - INFO - 查询成功，返回1条数据
+2025-07-11 18:43:49,579 - INFO - 查询成功，返回1条数据
+2025-07-11 18:45:01,747 - INFO - 查询成功，返回1条数据
+2025-07-11 18:46:01,371 - INFO - 查询成功，返回1条数据
+2025-07-11 18:47:26,256 - INFO - 查询成功，返回1条数据
+2025-07-11 18:47:33,466 - INFO - 查询成功，返回1条数据
+2025-07-11 18:50:25,294 - INFO - 查询成功，返回1条数据
+2025-07-11 18:50:30,369 - INFO - 查询成功，返回1条数据
+2025-07-11 18:51:10,932 - INFO - 查询成功，返回1条数据
+2025-07-11 18:53:20,530 - INFO - 查询成功，返回1条数据
+2025-07-11 18:54:01,685 - INFO - 查询成功，返回1条数据
+2025-07-27 20:42:54,994 - INFO - 查询成功，返回1条数据
+2025-07-27 20:45:03,781 - INFO - 查询成功，返回1条数据

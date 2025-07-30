@@ -1,0 +1,5 @@
+robots:
+  技术问题: "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=2bd7bc8d-a9f1-4fa6-a8ab-b5cc19d76ccf"
+  咨询: "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=ab4f6907-b25c-4405-b3e2-8792df4f9181"
+  投诉: "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=f1468994-694a-4c0e-9392-9ee94f136669"
+app_url: "http://127.0.0.1:8080/workorders"

@@ -1,0 +1,6 @@
+corpid: "ww6b78eb7358185b25"  # 企业ID（管理后台->我的企业->企业信息）
+agentid: 1000003       # 自建应用ID（管理后台->应用管理->自建应用）
+app_secret: "YyY4n_77pRmSU0y_0s_rQ0ZTHSPzFNx19Z7GVZ7vM34"  # 应用密钥（自建应用详情页获取）
+# 自建应用服务器配置（需与企业微信后台填写的一致）
+server_host: "http://p8c5c795.natappfree.cc"  # 服务器域名（如：https://workorder.example.com）
+server_port: 8080                 # 服务端口

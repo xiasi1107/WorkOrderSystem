@@ -1,0 +1,6 @@
+PyYAML==6.0.1
+mysql-connector-python==8.2.0  # MySQL驱动（若用PostgreSQL替换为psycopg2-binary）
+requests==2.31.0
+Flask==2.3.3
+python-dotenv==1.0.0  # 可选，用于环境变量管理
+gunicorn==21.2.0      # 生产环境部署自建应用用

@@ -1,0 +1,17 @@
+db_type: "mysql"
+host: "127.0.0.1"
+port: 3306
+user: "root"
+password: "12345"  # 替换为实际密码
+database: "workorder_db"      # 数据库名
+table: "workorders"           # 工单表名
+# 工单表字段（根据实际表结构调整）
+fields:
+  id: "工单ID"
+  title: "标题"
+  content: "内容"
+  status: "状态"  # 如：待处理/处理中/已完成
+  create_time: "创建时间"
+  handler: "处理人"
+# 机器人推送的筛选条件（如只推"待处理"工单）
+notify_condition: "status = '待处理'"

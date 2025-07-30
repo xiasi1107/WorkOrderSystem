@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>工单管理系统</title>
+    <style>
+        body { font-family: "Microsoft YaHei", sans-serif; margin: 20px; }
+        .title { color: #2772db; border-bottom: 2px solid #eee; padding-bottom: 10px; }
+        .workorder-card { border: 1px solid #eee; border-radius: 8px; padding: 15px; margin: 10px 0; }
+        .card-header { font-weight: bold; color: #333; }
+        .card-content { margin-top: 8px; color: #666; }
+    </style>
+</head>
+<body>
+<h1 class="title">所有工单列表</h1>
+{% if workorders %}
+{% for order in workorders %}
+<div class="workorder-card">
+    <div class="card-header">
+        {{ order.title }}（ID: {{ order.id }}）
+    </div>
+    <div class="card-content">
+        <p>创建时间：{{ order.create_time }}</p>
+        <p>状态：{{ order.status }}</p>
+        <p>处理人：{{ order.handler or '未分配' }}</p>
+    </div>
+</div>
+{% endfor %}
+{% else %}
+<p>暂无工单数据</p>
+{% endif %}
+</body>
+</html>
